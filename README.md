@@ -3,7 +3,7 @@ Escape Gidget Island!
 Installation instructions:
 1: Downlad the game files
 2: Download the Processing IDE https://processing.org/download
-3: Open Main.PDE
+3: Open GidgetWorld.PDE
 4: Run the game!
 
 <img width="598" height="596" alt="image" src="https://github.com/user-attachments/assets/ae46309b-6dc9-47c4-b916-93d3e836fbea" />
